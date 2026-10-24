@@ -1,0 +1,14 @@
+# SHA-256 of evidence files, computed in the Claude session workspace on 2026-10-23 (CDT, UTC-05:00).
+# Human-recorded videos (iPhone 14, uploaded to claude.ai):
+64ac18b818ca4e1293138f2221636d0d487be12daadad28afcdc88833ba4dc7f  IMG_3594.mov
+7ecde488cced47329cca2d6831dae6c05e166663fb40b79647203ac7ea8795f4  IMG_3597.mov
+be040dc1c0ff178cfe50c8618458e60e7d00b12c6087463645be5c338517286f  IMG_3600.mov
+# Experiment brief (typed):
+ca89c1b9fd2731b941cdc66ed7138969a733127df7a18a1780e9627b15702f6e  attachment.txt
+# Claude-generated video replies:
+3016ddf8812c766aa1bab3b23d0192135cc2aca7b277aa6c1cfff0739c5df596  claude-reply-dams.mp4
+7a81db1f6e03597ae1736c13651a954624d7e44934b637cff09aeae0b9f54cb1  dams-launch-steps.mp4
+# Earlier Claude-generated videos from typed prompts (context):
+729d2954c94658e3e6fcdcd29a105a5db7f7c4170e05429df82e0427a2e3e458  claude-unweighted.mp4
+d54b9385d9462176d695f587c0e278d483f4edef2f31823e846b0c8c5359c4e3  sean-build-map.mp4
+29b93e2ba38dfdd094b3c3731e79b88a8d80176b22d67f5e76b8c4a3f509db18  video-conversation-verification-report.pdf

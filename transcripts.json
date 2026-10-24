@@ -1,0 +1,38 @@
+{
+ "IMG_3594.mov": [
+  {
+   "start": 0.0,
+   "end": 9.0,
+   "text": "Hey Claude, so if you could launch the digital asset management system for me, I'd appreciate it."
+  },
+  {
+   "start": 9.0,
+   "end": 12.0,
+   "text": "Respond to this video, thanks."
+  }
+ ],
+ "IMG_3597.mov": [
+  {
+   "start": 0.0,
+   "end": 4.0,
+   "text": "Hey Claude, thanks for your response."
+  },
+  {
+   "start": 4.0,
+   "end": 16.0,
+   "text": "Will you give me steps on what exactly I need to do to launch this asset management system that we've created? I appreciate it."
+  },
+  {
+   "start": 16.0,
+   "end": 23.0,
+   "text": "Just write the instructions, or make a video as you reply with the instructions. I appreciate it."
+  }
+ ],
+ "IMG_3600.mov": [
+  {
+   "start": 0.0,
+   "end": 4.3,
+   "text": "Hey Claude, generate a video explaining those steps."
+  }
+ ]
+}
